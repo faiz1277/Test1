@@ -12,4 +12,4 @@ if __name__ == "__main__":
     if compare:
         print("Files are identical")
     else:
-        print("Files are different")
+        print("hey")
